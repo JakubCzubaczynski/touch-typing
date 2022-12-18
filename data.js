@@ -4,6 +4,7 @@ const people = [
     job: 'developer',
     age: 19,
     salary: 100,
+    msg: 'another commit',
   },
   {
     name: 'bob',
