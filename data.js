@@ -5,6 +5,7 @@ const people = [
     age: 19,
     salary: 100,
     msg: 'another commit',
+    msg2: 'zmiana po dodaniu pliku do usuniecia',
   },
   {
     name: 'bob',
