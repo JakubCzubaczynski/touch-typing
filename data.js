@@ -2,7 +2,7 @@ const people = [
   {
     name: 'john',
     job: 'developer',
-    age: 25,
+    age: 20,
     salary: 100,
   },
   {
